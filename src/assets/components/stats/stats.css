@@ -1,0 +1,36 @@
+.statsInfo{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+}
+.statsTitle{
+    font-size: 12px;
+    font-weight: 400;
+}
+.statsValue{
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.statsPercentage{
+    border-radius: 999px;
+   
+}
+.sp-good{
+    color: #94FF6F;
+    background: #1E391A;
+}
+.sp-medium{
+    color: #57AEFF;
+    background: #152C64;;
+}
+.sp-bad{
+    color: #FF6868;
+    background: #561313;
+}
+.statsPercentage h1{
+    font-size: 12px;
+    padding: 2px 5px;
+}

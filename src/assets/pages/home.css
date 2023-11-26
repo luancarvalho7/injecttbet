@@ -1,0 +1,42 @@
+
+.miniSectionTitle {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 8px;
+}
+
+.miniSectionTitle p {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.hSection{
+    margin: 20px 0px;
+}
+
+
+#enabledGames > h1 {
+    font-size: 32px;
+    text-align: center;
+    width: 100%;
+    font-style: normal;
+    font-weight: 500;
+    margin: 12px 0px;
+}
+
+/* Swipers */
+
+
+.swiper-slide{
+    width: fit-content !important;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-left: 10px;
+}
+.swiper-slide:hover{
+    transform: scale(0.98);
+}
+.swiper-slide:active{
+    transform: scale(0.93);
+}
+

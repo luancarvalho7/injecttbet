@@ -1,0 +1,206 @@
+.selectCard {
+    display: flex;
+    background: var(--linear, linear-gradient(147deg, #3865D1 21.16%, rgba(56, 101, 209, 0.00) 81.34%));
+    width: 290px;
+    height: 180px;
+
+    padding: 2px;
+    border-radius: 16px;
+    overflow: hidden;
+    border-radius: 16px;
+    position: relative;
+
+    user-select: none;
+}
+
+.selectCardBlocked {
+    display: flex;
+    background: linear-gradient(180deg, #7C7C7C 0%, #0B1120 100%);
+    width: 290px;
+    height: 180px;
+
+    padding: 2px;
+    border-radius: 16px;
+    overflow: hidden;
+    border-radius: 16px;
+    position: relative;
+
+}
+
+.sc-content {
+    width: 100%;
+    height: 100%;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    box-sizing: border-box;
+    padding: 12px 14px 18px;
+    border-radius: 16px;
+
+    background: linear-gradient(180deg, rgba(0, 80, 137, 0.05) 47%, rgba(59, 103, 211, 0.10) 100%), #020817;
+
+}
+
+.sc-content-blocked {
+    width: 100%;
+    height: 100%;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    box-sizing: border-box;
+    padding: 12px 14px 18px;
+    border-radius: 16px;
+    border: 1px solid var(#7C7C7C, #7C7C7C);
+    border-color: black;
+    box-shadow: 0px 4px 40px 0px rgba(58, 103, 210, 0.10);
+
+    background: linear-gradient(138deg, #373D49 0%, #070E1C 79.08%);
+
+}
+
+.houseData {
+    width: 100%;
+    height: 52px;
+
+    display: flex;
+    justify-content: space-between;
+}
+.lowopacity{
+    opacity: 0.84;
+}
+
+.image {
+    height: 85px;
+    mix-blend-mode: screen;
+    user-select: none;
+}
+
+.image-blocked {
+    filter: grayscale(1);
+    opacity: 0.7;
+    height: 85px;
+    mix-blend-mode: screen;
+    user-select: none;
+}
+
+
+/* Supplier */
+
+
+.supplierCard {
+    width: 200px;
+}
+
+.supp-houseD {
+    justify-content: space-around;
+}
+
+
+/* Games */
+
+.gameCard-stroke{
+    background: #181F2E;
+    height: 250px;
+    width: 180px;
+}
+.gameCard-ui{
+    background: #0E1524
+}
+.gms-houseD {
+    z-index: 2;
+    position: absolute;
+    top: 152px;
+    justify-content: space-around;
+}
+
+.gameImage {
+    position: absolute;
+    object-fit: contain;
+    width: 255px;
+    height: 180px;
+    top: -18px;
+
+    
+}
+
+.imgfade {
+    z-index: 1;
+    width: 225px;
+    height: 210px;
+    position: absolute;
+    top: -20px;
+    background: linear-gradient(0deg, #0E1524 16.85%, rgba(14, 21, 36, 0.00) 46.63%);
+}
+
+
+.gprogress-bar {
+    width: 99%;
+    border-radius: 15px;
+    border: 1px solid #00FE38;
+    background: #0D1423;
+    box-shadow: 0px 4px 250px 0px #000;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    overflow: hidden;
+}
+.gprogress-fill {
+    border-radius: 15px;
+    background: linear-gradient(90deg, rgba(2, 255, 58, 0.75) 2.76%, #70FF8F 65.29%, #0D1423 75.27%);
+    height: 100%;
+    width: 0;
+    transition: width 0.5s ease-in-out;
+}
+
+.gprogress-value{
+    position: absolute;
+    padding: 2px 9px;
+    width: fit-content;
+    height: fit-content;
+    background-color: #0D1423;
+    color: #01F037;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;
+    transform: translate(-50%, 50%);
+    font-weight: 700;
+    font-size: 12px;
+    border-radius: 999px;
+
+}
+
+.pg-normal {
+    border: 1px solid #57AEFF;
+}
+.pgv-normal {
+    color: #57AEFF;
+}
+.pgf-normal {
+    background: linear-gradient(90deg, rgba(87, 174, 255, 0.75) 2.76% ,  #57AEFF 65.29% , #0D1423 75.27%);
+}
+
+
+
+
+.pg-bad{
+    border: 1px solid red;
+}
+.pgv-bad {
+    color: red;
+}
+.pgf-bad{
+    background: linear-gradient(90deg, #F00 2.76%, rgba(255, 0, 0, 0.75) 65.29% ,#0D1423 75.27%);
+}
+
+
+body {
+    background-color: #000511;
+}

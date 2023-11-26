@@ -1,0 +1,96 @@
+[
+  {
+    "casino": "BullsBet",
+    "players": 900000,
+    "revenue": 3420000,
+    "suppliers": [
+      "PG Soft",
+      "Spribe",
+      "pragmaticplay",
+      "Evoplay"
+    ],
+    "image": "https://i.postimg.cc/3RW6RXxX/bullsbet.webp",
+    "link": "https://bullsbet.net/?ref=0a450b95e2b4&src=jeppyefuuruemdrprci&utm_source=135500"
+  },
+  {
+    "casino": "PlayPix",
+    "players": 12600000,
+    "revenue": 48500000,
+    "suppliers": [
+      "PG Soft",
+      "pragmaticplay",
+      "Spribe",
+      "Evoplay"
+    ],
+    "image": "https://i.postimg.cc/TYXKrCv3/playpix.webp",
+    "link": "https://playpix.com/affiliates/?btag=1439012"
+  },
+  {
+    "casino": "RealsBet",
+    "players": 1900000,
+    "revenue": 7220000,
+    "suppliers": [
+      "netgaming",
+      "pragmaticplay",
+      "Spribe",
+      "PG Soft",
+      "Evoplay"
+    ],
+    "image": "https://i.postimg.cc/sD9vK739/realsbet.webp",
+    "link": "https://afiliado.realsbet.com/visit/?bta=46019&brand=realsbet"
+  },
+  {
+    "casino": "GreenBets",
+    "players": 2200000,
+    "revenue": 31768000,
+    "suppliers": [
+      "PG Soft",
+      "Evoplay",
+      "pragmaticplay",
+      "Spribe"
+    ],
+    "image": "https://i.postimg.cc/3N2WsDmh/greenbets.webp",
+    "link": "https://afiliados.greenbets.io/visit/?bta=50201&brand=greenbetsio"
+  },
+  {
+    "casino": "NutsBet",
+    "players": 5700000,
+    "revenue": 21660000,
+    "suppliers": [
+      "PG Soft",
+      "Spribe",
+      "pragmaticplay",
+      "netgaming",
+      "Evoplay"
+    ],
+    "image": "https://i.postimg.cc/pVj9h37S/nutsbet.webp",
+    "link": "https://affiliates.nuts.bet/visit/?bta=36468&nci=5377"
+  },
+  {
+    "casino": "MMAbet",
+    "players": 7100000,
+    "revenue": 26980000,
+    "suppliers": [
+      "pragmaticplay",
+      "PG Soft",
+      "netgaming",
+      "Spribe",
+      "Evoplay"
+    ],
+    "image": "https://i.postimg.cc/0ykr4jQg/mma.webp",
+    "link": "https://afiliados.mmabet.com/visit/?bta=37872&brand=mmabet"
+  },
+  {
+    "casino": "Esporte da Sorte",
+    "players": 11800000,
+    "revenue": 44840000,
+    "suppliers": [
+      "PG Soft",
+      "Spribe",
+      "pragmaticplay",
+      "netgaming"
+    ],
+    "image": "https://i.postimg.cc/TwzpNcyQ/esporte.webp",
+    "link": "https://bullsbet.net/?ref=0a450b95e2b4&src=jeppyefuuruemdrprci&utm_source=135500"
+  }
+]

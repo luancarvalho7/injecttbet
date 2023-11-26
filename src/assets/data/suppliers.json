@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Spribe",
+        "weight": 2,
+        "image": "https://i.postimg.cc/Ghddzf79/spribe.webp",
+        "games": [
+            {
+                "name": "Mines",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/mines_spribe_original_desktop_mobile_icon_1693439512454.gif",
+                "weight": 22
+            },
+            {
+                "name": "Aviator",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/aviator_spribe_original_desktop_mobile_icon_1693442622838.gif",
+                "weight": 17
+            },
+            {
+                "name": "Roleta",
+                "image": "https://i.postimg.cc/MphTSg52/Roletas-5.webp",
+                "weight": 20
+            },
+            {
+                "name": "Ninja Crash",
+                "image": "https://guiadasbets.com.br/wp-content/uploads/2023/10/Galaxsys_ninjacrash-1200x900.jpg",
+                "weight": 17
+            },
+            {
+                "name": "Goal",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/goal_spribe_original_desktop_mobile_icon_1674045862951.webp",
+                "weight": 3
+            },
+            {
+                "name": "Plinko",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/plinko_spribe_original_desktop_mobile_icon_1674045848397.webp",
+                "weight": 6
+            },
+            {
+                "name": "Mini Roulette",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/mini-roulette_spribe_original_desktop_mobile_icon_1674045810346.webp",
+                "weight": 3
+            },
+            {
+                "name": "Dice",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/dice_spribe_original_desktop_mobile_icon_1674045854588.webp",
+                "weight": 2
+            },
+            {
+                "name": "Hilo",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/hi-lo_spribe_original_desktop_mobile_icon_1674045831012.webp",
+                "weight": 4
+            },
+            {
+                "name": "Keno",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/keno_spribe_original_desktop_mobile_icon_1674045877812.webp",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "name": "PG Soft",
+        "weight": 3,
+        "image": "https://i.postimg.cc/nhLZfDtJ/pgSoft.webp",
+        "games": [
+            {
+                "name": "Fortune Tiger",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/pgsoft-fortune-tiger_mrslotty_pgsoft_desktop_mobile_icon_1693443214437.gif",
+                "weight": 5
+            },
+            {
+                "name": "Fortune Ox",
+                "image": "https://cmsbetconstruct.com/content/images/casino/icon3/116d28508566a76905628411a821c164_casinoGameIcon3.webp",
+                "weight": 13
+            },
+            {
+                "name": "Fortune Rabbit",
+                "image": "https://cmsbetconstruct.com/content/images/casino/icon3/08c1ea646e1a6bde4b572f2d878d1bfa_casinoGameIcon3.webp",
+                "weight": 3
+            },
+            {
+                "name": "Fortune Mouse",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/pgsoft-fortune-mouse_mrslotty_pgsoft_desktop_mobile_icon_1681118376083.webp",
+                "weight": 3
+            },
+            {
+                "name": "Dragon Hatch",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/pgsoft-dragon-hatch_mrslotty_pgsoft_desktop_mobile_icon_1679993624975.webp",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "name": "pragmaticplay",
+        "weight": 2,
+        "image": "https://i.postimg.cc/nc2ZW1g2/pragmatic.webp",
+        "games": [
+            {
+                "name": "Big Bass",
+                "image": "https://cmsbetconstruct.com/content/images/casino/icon3/c79b007e577f8f015501c933a2255140_casinoGameIcon3.gif",
+                "weight": 20
+            },
+            {
+                "name": "Spaceman",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/1301_pragmatic_desktop_mobile_icon_1690555768698.gif",
+                "weight": 5
+            },
+            {
+                "name": "Gates of Olympus",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/vs20olympgate_pragmatic_desktop_mobile_icon_1690555892135.gif",
+                "weight": 2
+            },
+            {
+                "name": "The Dog House",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/vs20doghouse_pragmatic_desktop_mobile_icon_1695742564361.webp",
+                "weight": 3
+            },
+            {
+                "name": "Zeus vs Hades: God of War",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/vs15godsofwar_pragmatic_desktop_mobile_icon_1690555801353.gif",
+                "weight": 4
+            },
+            {
+                "name": "Candy Blitz",
+                "image": "https://cmsbetconstruct.com/content/images/casino/icon3/7a2578aae14033fe494899836990ce88_casinoGameIcon3.webp",
+                "weight": 3
+            },
+            {
+                "name": "3 Dancing Monkeys",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/vswaysmonkey_pragmatic_desktop_mobile_icon_1695743567432.webp",
+                "weight": 4
+            },
+            {
+                "name": "Cowboy Coins",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/vswaysultrcoin_pragmatic_desktop_mobile_icon_1695743388856.webp",
+                "weight": 2
+            },
+            {
+                "name": "Cobras e Escadas",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/vs10snakeeyes_Pragmatic_desktop_mobile_icon_1682609180512.jpg",
+                "weight": 1
+            },
+            {
+                "name": "Cash Box",
+                "image": "https://cmsbetconstruct.com/content/images/casino/icon3/d90341ea695ab65f983d5933010d4762_casinoGameIcon3.gif",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "name": "netgaming",
+        "weight": 2,
+        "image": "https://i.postimg.cc/c1QdRWcV/netgaming.webp",
+        "games": [
+            {
+                "name": "Master of Fortune",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/netgaming-masteroffortune_mrslotty_netgaming_desktop_mobile_icon_1681845709906.webp",
+                "weight": 4
+            },
+            {
+                "name": "Festival of Fortune",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/netgaming-festivaloffortune_mrslotty_netgaming_desktop_mobile_icon_1681841517499.jpg",
+                "weight": 3
+            },
+            {
+                "name": "European Roulette",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/netgaming-europeanroulette_mrslotty_netgaming_desktop_mobile_icon_1681841505642.jpg",
+                "weight": 1
+            },
+            {
+                "name": "Black Jack",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/netgaming-blackjack_mrslotty_netgaming_desktop_mobile_icon_1681841493166.jpg",
+                "weight": 5
+            },
+            {
+                "name": "American Roulette",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/netgaming-americanroulette_mrslotty_netgaming_desktop_mobile_icon_1681843656146.webp",
+                "weight": 3
+            },
+            {
+                "name": "Vegas Time",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/netgaming-vegastime_mrslotty_netgaming_desktop_mobile_icon_1681843354879.webp",
+                "weight": 2
+            },
+            {
+                "name": "Juice Gold",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/netgaming-juicygold100_mrslotty_netgaming_desktop_mobile_icon_1681848796713.webp",
+                "weight": 1
+            },
+            {
+                "name": "Treasures of Egypt",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/netgaming-treasuresofegypt_mrslotty_netgaming_desktop_mobile_icon_1681847005240.webp",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "name": "Evoplay",
+        "weight": 1,
+        "image": "https://i.postimg.cc/J0cmM3n1/evoplay.webp",
+        "games": [
+            {
+                "name": "Penalty Shoot Out",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/5643_evoplay_desktop_mobile_icon_1669150416229.webp",
+                "weight": 5
+            },
+            {
+                "name": "Fruit Nova Super",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/5752_evoplay_desktop_mobile_icon_1669130011596.webp",
+                "weight": 2
+            },
+            {
+                "name": "Gold of Sirens",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/5773_evoplay_desktop_mobile_icon_1667914699725.webp",
+                "weight": 1
+            },
+            {
+                "name": "Clash of Pirates",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/610_evoplay_desktop_mobile_icon_1667914759034.webp",
+                "weight": 2
+            },
+            {
+                "name": "MineField",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/5573_evoplay_desktop_mobile_icon_1667920055466.webp",
+                "weight": 1
+            },
+            {
+                "name": "FruitBuster",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/1614_evoplay_desktop_mobile_icon_1667985267233.webp",
+                "weight": 2
+            },
+            {
+                "name": "Western Rells",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/5587_evoplay_desktop_mobile_icon_1667986100269.webp",
+                "weight": 4
+            },
+            {
+                "name": "Football Manager",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/5687_evoplay_desktop_mobile_icon_1667986519734.webp",
+                "weight": 3
+            }
+        ]
+    }
+]

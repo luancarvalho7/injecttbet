@@ -1,0 +1,31 @@
+.vip-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0px 20px;
+    position: sticky;
+    height: 75px;
+    top: 0;
+    z-index: 10;
+    background: linear-gradient(180deg, #000511 50%, rgba(0, 5, 17, 0.00) 100%);
+    backdrop-filter: blur(10px);
+}
+
+.vip-container img {
+    cursor: pointer;
+}
+
+.vip-button {
+    cursor: pointer;
+    height: 30px;
+    border-radius: 99px;
+    background: radial-gradient(70.71% 70.71% at 50% 50%, #2558D3 29%, #1944AC 100%);
+    box-shadow: -1px -1px 2px 0px #19367C inset, 1px 1px 0px 0px rgba(192, 193, 224, 0.20) inset, 0px 12px 50px 0px rgba(71, 113, 217, 0.44);
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    border: 1px;
+    width: 151px;
+}
