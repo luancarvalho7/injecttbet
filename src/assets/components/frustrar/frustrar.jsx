@@ -135,7 +135,7 @@ export function Frustrar({ data, vipAccess }) {
                         <FrustrarProgressBar valorVariavel={newGamePercentage} quality={quality} />
                     </div>
                     <div className="game-info-container">
-                        <p className="game-info">O sistema da SPRIBE irá te identificar como um jogador “frustrado” da BullsBet e vai fazer com que suas chances de ganhar aumentem</p>
+                        <p className="game-info">O sistema irá te identificar como um jogador “frustrado” e vai fazer com que suas chances de ganhar aumentem em 8 vezes</p>
                         <div className="game-pay-reve">
                             <Stats
                                 title={'Pagamento'}

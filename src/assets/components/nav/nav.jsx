@@ -24,7 +24,7 @@ export function Nav({ vipAccess }) {
 
             {
 
-                vipAccess ? <button className="vip-button"> Membro VIP</button> : <a href='https://checkout.perfectpay.com.br/pay/PPU38CNDESA' target='_blank'><button className="vip-button">Acesso VIP <img src={arrow} /></button></a>
+                vipAccess ? <button className="vip-button"> Membro VIP</button> : <a href='https://go.perfectpay.com.br/PPU38CNKTGN' target='_blank'><button className="vip-button">Acesso VIP <img src={arrow} /></button></a>
 
             }
         </nav >

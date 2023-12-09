@@ -30,7 +30,7 @@ function Modal({ isOpen, setShowModal }) {
                     <p>Monitore todas as casas, tenha acesso ao sistema de todos os fornecedores e veja os melhores jogos.</p>
                 </div>
                 <div className="modal-footer">
-                    <button className="vip-button"><a href="https://checkout.perfectpay.com.br/pay/PPU38CNDESA"><strong>QUERO SER VIP</strong></a></button>
+                    <button className="vip-button"><a href="https://go.perfectpay.com.br/PPU38CNKTGN"><strong>QUERO SER VIP</strong></a></button>
                     <button className="close-button" onClick={onClose}>Não, obrigado</button>
                 </div>
             </div>
