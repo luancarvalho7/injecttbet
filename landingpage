@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>A MÁFIA DOS CASSINOS ONLINES FOI REVELADA</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='styles.css'>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+        @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap");
+
+        * {
+            padding: 0px;
+            margin: 0px;
+            font-family: "Inter", sans-serif;
+        }
+
+        body {
+            background-color: black;
+            box-sizing: border-box;
+            overflow-x: hidden;
+            margin: 0px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #headline {
+            margin: 35px 0px 25px 0px;
+            padding: 0px 12px;
+            color: white;
+            text-align: center;
+        }
+
+        .disabled {
+            display: none;
+        }
+
+        #btnCta {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 25px;
+        }
+
+        #btnCta a {
+            text-align: center;
+            margin: 0px 20px;
+            outline: none;
+            text-decoration: none;
+            font-weight: 700;
+            color: white;
+            border-radius: 999px;
+            background-color: #0069cc;
+            font-size: 18px;
+            padding: 12px 20px;
+            transition: all 0.5s;
+            animation: pulseAnimation 0.5s infinite alternate;
+        }
+
+        #btnCta a:hover {
+            background-color: #0084ff;
+            animation: pulseAnimation 0.5s infinite alternate;
+        }
+
+        @keyframes pulseAnimation {
+            0% {
+                transform: scale(1);
+            }
+
+            100% {
+                background-color: #0084ff;
+
+                transform: scale(1.025);
+            }
+        }
+
+        #headline h1 {
+            font-weight: 800;
+            font-size: 3.75vw;
+        }
+
+        .highlighted {
+            background-color: red;
+        }
+
+        #panda-ece1d68e-86d7-44de-aa1e-cd5302df182e {
+            max-width: 600px;
+            max-height: 1066px;
+            width: 100vw;
+            margin-bottom: 15px;
+            height: 177.78vw;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="headline">
+        <h1>
+            <span class="highlighted">A MÁFIA DOS CASSINOS ONLINE FOI REVELADA!</span>
+            <br />
+            PESSOAS LESADAS ESTÃO RECUPERANDO O QUE PERDERAM EM TEMPO RECORDE
+        </h1>
+    </div>
+    <iframe id="panda-ece1d68e-86d7-44de-aa1e-cd5302df182e"
+        src="https://player-vz-1bfa5efd-b01.tv.pandavideo.com.br/embed/?v=ece1d68e-86d7-44de-aa1e-cd5302df182e"
+        style="border: none;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+        allowfullscreen="true" width="720" height="360" fetchpriority="high"></iframe>
+    <div id="btnCta">
+        <a id="ctaButton" class="disabled" href="https://go.perfectpay.com.br/PPU38CNKTES">
+            GARANTIR MEU ACESSO AGORA!</a>
+    </div>
+    <script>
+        console.log("Script Loaded");
+        const ctaButton = document.getElementById("ctaButton");
+
+        const timeoutDuration = 3 * 60 * 1000 + 45 * 1000;
+
+        setTimeout(() => { 
+            ctaButton.classList.remove("disabled");
+        }, timeoutDuration);
+
+        const timeoutDuration2 = 5 * 60 * 1000;
+
+        setTimeout(() => {
+            ctaButton.scrollIntoView({
+                behavior: "smooth",
+                block: "center",
+                inline: "center",
+            });
+        }, timeoutDuration2);
+
+    </script>
+</body>
+
+</html>
