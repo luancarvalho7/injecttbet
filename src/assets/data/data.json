@@ -1,5 +1,19 @@
 [
   {
+    "casino": "MMAbet",
+    "players": 7100000,
+    "revenue": 26980000,
+    "suppliers": [
+      "pragmaticplay",
+      "PG Soft",
+      "netgaming",
+      "Spribe",
+      "Evoplay"
+    ],
+    "image": "https://i.postimg.cc/0ykr4jQg/mma.webp",
+    "link": "https://afiliados.mmabet.com/visit/?bta=58726&nci=5343"
+  },
+  {
     "casino": "PlayPix",
     "players": 12600000,
     "revenue": 48500000,
@@ -10,19 +24,6 @@
       "Evoplay"
     ],
     "image": "https://i.postimg.cc/TYXKrCv3/playpix.webp",
-    "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
-  },
-  {
-    "casino": "BullsBet",
-    "players": 900000,
-    "revenue": 3420000,
-    "suppliers": [
-      "PG Soft",
-      "Spribe",
-      "pragmaticplay",
-      "Evoplay"
-    ],
-    "image": "https://i.imgur.com/UOp2DO4.png",
     "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
   },
   {
@@ -64,20 +65,6 @@
       "Evoplay"
     ],
     "image": "https://i.postimg.cc/pVj9h37S/nutsbet.webp",
-    "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
-  },
-  {
-    "casino": "MMAbet",
-    "players": 7100000,
-    "revenue": 26980000,
-    "suppliers": [
-      "pragmaticplay",
-      "PG Soft",
-      "netgaming",
-      "Spribe",
-      "Evoplay"
-    ],
-    "image": "https://i.postimg.cc/0ykr4jQg/mma.webp",
     "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
   },
   {
